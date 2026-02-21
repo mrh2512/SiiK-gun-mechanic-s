@@ -1,3 +1,5 @@
+https://siik-scripts-store.tebex.io/package/7295236
+
 SiiK Gun Mechanics (Standalone)
 Safety Switch • Fire Modes • Weapon Jamming • Minimal UI (Icons Only)
 
